@@ -1,7 +1,6 @@
 package src.main.java.emt.purush;
 import java.io.File;
 import java.util.*;
-
 public class Codeathon07_Purush {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
