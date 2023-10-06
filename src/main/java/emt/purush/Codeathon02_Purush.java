@@ -1,5 +1,5 @@
 
-package emt.purush;
+package src.main.java.emt.purush;
 import java.util.*;
 public class Codeathon02_Purush {
     public static void main(String[] args) {

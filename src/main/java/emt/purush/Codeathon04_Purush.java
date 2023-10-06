@@ -1,4 +1,4 @@
-package emt.purush;
+package src.main.java.emt.purush;
 import java.util.Scanner;
 
 interface LambdaExpression {
